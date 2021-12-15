@@ -1,0 +1,30 @@
+There are currently 13 astronauts on the ISS: 
+
+Crew Name: Mark Vande Hei || Craft: ISS
+
+Crew Name: Pyotr Dubrov || Craft: ISS
+
+Crew Name: Anton Shkaplerov || Craft: ISS
+
+Crew Name: Zhai Zhigang || Craft: Shenzhou 13
+
+Crew Name: Wang Yaping || Craft: Shenzhou 13
+
+Crew Name: Ye Guangfu || Craft: Shenzhou 13
+
+Crew Name: Raja Chari || Craft: ISS
+
+Crew Name: Tom Marshburn || Craft: ISS
+
+Crew Name: Kayla Barron || Craft: ISS
+
+Crew Name: Matthias Maurer || Craft: ISS
+
+Crew Name: Alexander Misurkin || Craft: ISS
+
+Crew Name: Yusaku Maezawa || Craft: ISS
+
+Crew Name: Yozo Hirano || Craft: ISS
+
+
+Your current lat / long is: [2.9936, 101.5726]
